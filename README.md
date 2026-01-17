@@ -107,6 +107,6 @@ You are free to view and learn from the code.
 ---
 
 ## 👨‍💻 Author
-**Anshul Chauhan**  
+**Anshul Chauhan | Web & Front-end Developer | @codebyansh**  
 - GitHub: [anshul-chauhan2024](https://github.com/anshul-chauhan2024)  
 - Portfolio: https://anshulchauhan0.github.io/portfolio/
