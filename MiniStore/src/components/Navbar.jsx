@@ -3,7 +3,7 @@ import { MapPinned, ChevronDown, ShoppingCart, X } from 'lucide-react';
 import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/clerk-react";
 import { useCartData } from "../context/CartContext";
 import { HiOutlineBars3CenterLeft } from "react-icons/hi2";
-import { useEffect, useRef, useState } from "react";
+import {useState } from "react";
 
 
 
