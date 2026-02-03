@@ -40,7 +40,7 @@ const Carousel = () => {
         );
     };
 
-
+// Carousel Settings
     var settings = {
         dots: true,
         infinite: true,
