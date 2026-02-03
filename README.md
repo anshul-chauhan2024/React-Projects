@@ -1,12 +1,13 @@
 # 🚀 React Projects Repository
 
 This repository contains multiple **React.js projects** developed as part of my portfolio and practice work.  
-Each project is organized into its own folder with a complete React setup, dependencies, and source code.  
+Each project is organized into its own folder, complete with a full React setup, dependencies, and source code.  
 
 Currently, this repository includes the following projects:
 
 - **AgencyCO** → A modern digital agency website template.  
-- **Finbiz** → A finance and business consultancy website template.  
+- **Finbiz** → A multiple-page finance and business consultancy website template.
+- **MiniStore** → A feature-rich multi-page eCommerce web app built with React, implementing dynamic routing, state management, and cart operations.
 
 ---
 
@@ -16,6 +17,7 @@ Currently, this repository includes the following projects:
 React-Projects/
 ├── AgencyCO/     # Digital Agency Website
 ├── Finbiz/       # Finance & Business Website
+├── MiniStore/    # Mini eCommerce Website
 └── README.md     # Documentation (this file)
 ```
 
@@ -105,6 +107,6 @@ You are free to view and learn from the code.
 ---
 
 ## 👨‍💻 Author
-**Anshul Chauhan**  
+**Anshul Chauhan | Web & Front-end Developer | @codebyansh**  
 - GitHub: [anshul-chauhan2024](https://github.com/anshul-chauhan2024)  
 - Portfolio: https://anshulchauhan0.github.io/portfolio/

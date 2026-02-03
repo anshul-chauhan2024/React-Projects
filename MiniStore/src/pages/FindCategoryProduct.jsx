@@ -50,7 +50,7 @@ const FindCategoryProduct = () => {
                     </div>
                 </div>
             ) : (
-                <div>
+                <div className="flex justify-center items-center h-55">
                     <Loader />
                 </div>
             )

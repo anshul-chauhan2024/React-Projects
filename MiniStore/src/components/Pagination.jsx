@@ -1,4 +1,3 @@
-
 // Function to generate pagination pages
 const getPages = (current, total) => {
     const pages = [];

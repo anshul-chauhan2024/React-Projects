@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+body {
+  background-color: #121212;
+  color: #fff;
+}
+
+/* taskList Scrooler */
+
+.taskList::-webkit-scrollbar {
+  display: none;
+}
+
+/* Admin Dashboard Form */
+.admin_dashboard_form input,
+.admin_dashboard_form textarea {
+  width: 100%;
+  border: 1px solid #eee;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top:5px;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+    cursor: pointer;
+}
