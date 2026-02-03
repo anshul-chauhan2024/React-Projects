@@ -8,6 +8,7 @@ Currently, this repository includes the following projects:
 - **AgencyCO** → A modern digital agency website template.  
 - **Finbiz** → A multiple-page finance and business consultancy website template.
 - **MiniStore** → A feature-rich multi-page eCommerce web app built with React, implementing dynamic routing, state management, and cart operations.
+- **Task Management App** → A role-based task management system (Admin & Employees)
 
 ---
 
@@ -15,21 +16,24 @@ Currently, this repository includes the following projects:
 
 ```
 React-Projects/
-├── AgencyCO/     # Digital Agency Website
-├── Finbiz/       # Finance & Business Website
-├── MiniStore/    # Mini eCommerce Website
-└── README.md     # Documentation (this file)
+├── AgencyCO/ # Digital Agency Website
+├── Finbiz/ # Finance & Business Website
+├── MiniStore/ # Mini eCommerce Application
+├── TaskManagement/ # Task Management System
+└── README.md # Documentation (this file)
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **React.js** – Component-based UI library  
-- **React Router** – For routing (if used)  
-- **Tailwind CSS / Bootstrap** – For responsive styling  
+- **React.js** – Component-based UI development  
+- **React Router** – Client-side routing  
+- **Context API** – State management  
+- **Tailwind CSS / CSS** – Responsive UI styling  
 - **JavaScript (ES6+)**  
-- **Node.js & npm** – For package management  
+- **Node.js & npm** – Package management  
+- **LocalStorage** – Data persistence  
 
 ---
 
@@ -83,6 +87,49 @@ A sleek **finance & business consultancy website** built with React.
 - Responsive and mobile-friendly layout  
 
 ---
+
+### 3️⃣ MiniStore – Mini E-commerce Website
+
+A multi-page eCommerce web application with dynamic data handling.
+
+**Features:**
+- Dynamic product listing via API  
+- Category-based product filtering  
+- Search, brand, and price filters  
+- Product details page  
+- Cart functionality with LocalStorage  
+- Responsive UI  
+
+**Concepts Used:**
+- React Router  
+- Context API  
+- API integration  
+
+---
+
+### 4️⃣ Task Management App
+
+A role-based task management system designed for Admin and Employees.
+
+**Features:**
+- Admin & Employee login system  
+- Admin can create, assign, and manage tasks  
+- Employees can view assigned tasks  
+- Task status tracking:
+  - New  
+  - Accepted  
+  - Completed  
+  - Failed  
+- Task count dashboard  
+- Data persistence using LocalStorage  
+- Clean and structured UI  
+
+**Concepts Used:**
+- Context API for global state  
+- Conditional rendering  
+- LocalStorage integration  
+- Modular component architecture  
+
 
 ## 🚀 Deployment
 Each project can be deployed separately on:
