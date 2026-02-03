@@ -49,7 +49,7 @@ To run any project locally:
 
 2. **Navigate into a project folder**
    ```bash
-   cd AgencyCO   # or cd Finbiz
+   cd AgencyCO   # or cd Finbiz # or cd MiniStore # or cd TaskManagement
    ```
 
 3. **Install dependencies**
