@@ -1,12 +1,32 @@
-# React + Vite
+# 🚀 Agency Co - Creative Agency Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Agency Co** is a high-performance, dynamic Single Page Application (SPA) designed specifically for modern creative agencies. The project focuses on high-impact visuals, smooth interactivity, and a mobile-first user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** React JS
+- **Styling:** Tailwind CSS & CSS3
+- **Icons:** React Icons / FontAwesome
+- **Deployment:** Vercel / Netlify (Add your link here)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Key Features
+
+- **🎯 Single Page Architecture:** Built as a fast-loading SPA using React JS to ensure seamless navigation without page reloads.
+- **📱 Mobile-First Design:** Fully responsive layout optimized for all screen sizes, from small mobile devices to large desktops.
+- **✨ Interactive UI:** Integrated smooth scrolling and hover effects to enhance user engagement and journey.
+- **⚡ Performance Optimized:** Developed with a focus on speed, using clean code practices and optimized asset management.
+- **🎨 Modern Aesthetic:** Leveraged Tailwind CSS for rapid, utility-first styling to achieve a professional and creative look.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/anshulchauhan0/agency-co.git](https://github.com/anshulchauhan0/agency-co.git)
